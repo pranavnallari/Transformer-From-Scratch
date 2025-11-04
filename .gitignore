@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+runs/
+opus_books_weights/
+*.json
